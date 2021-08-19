@@ -1,4 +1,7 @@
-# vue-for-lowcode
+# vue3-for-lowcode
+
+使用vue3打造低代码可视化基础平台
+
 
 ## Project setup
 ```
